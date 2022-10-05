@@ -13,3 +13,7 @@ h1 {
         font-size: x-large;
         font-family: Courier, monospace;
     }
+
+    body {
+        background-image: url("fon.jpg");
+    }
