@@ -1,3 +1,6 @@
+
+
+
 h2 {
         text-align: center;
     }
@@ -17,6 +20,11 @@ h1 {
         font-size: x-large;
         font-family: Courier, monospace;
     }
+
+    IMG.displayed {
+        display: block;
+        margin-left: auto;
+        margin-right: auto }
 
     body {
         background-image: url("fon.jpg");
